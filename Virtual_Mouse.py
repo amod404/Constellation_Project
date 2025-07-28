@@ -15,7 +15,7 @@ answer_list = ["answer1.png", "answer2.png", "answer3.png", "answer4.png", "answ
 target_list = ["target1.npy", "target2.npy", "target3.npy", "target4.npy", "target5.npy", "target6.npy"]
 min_accuracy_list = [0.9,0.95,0.9,0.95,0.9,0.9]
 
-map = 6
+map = 2
 mode = 0
 QUESTION = question_list[map-1]
 ANSWER = answer_list[map-1]
